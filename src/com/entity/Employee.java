@@ -9,7 +9,7 @@ public class Employee {
 	private String DOB;
 	private Date createDate;
 	private Date updateDate;
-	
+	private Double sal;
 
 
 }
