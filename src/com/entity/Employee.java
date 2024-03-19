@@ -10,6 +10,7 @@ public class Employee {
 	private String DOB;
 	private Date updateDate;
 	private Double sal;
+	
 
 
 }
