@@ -7,9 +7,8 @@ public class Employee {
 	private String name;
 	private String company;
 	private String DOB;
-	private Date createDate;
 	private Date updateDate;
-	
+	private Double sal;
 
 
 }
